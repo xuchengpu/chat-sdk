@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+.directory
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
