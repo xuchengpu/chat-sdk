@@ -21,7 +21,7 @@
 | React Native | [npm: react-native-chat-sdk](https://www.npmjs.com/package/react-native-chat-sdk) | [npm: react-native-chat-sdk](https://www.npmjs.com/package/react-native-chat-sdk) |
 
 #### 使用说明
-请参加[SDK集成说明](https://doc.easemob.com/document/android/beginner_guide.html)
+请参考[SDK集成说明](https://doc.easemob.com/document/android/beginner_guide.html)
 
 
 
